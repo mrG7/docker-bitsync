@@ -4,5 +4,5 @@
  "storage_path" : "/data",
   "use_upnp" : true,
   "download_limit" : 0,
-  "upload_limit" : 0,
+  "upload_limit" : 0
 }
